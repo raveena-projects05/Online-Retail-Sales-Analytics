@@ -17,7 +17,6 @@ Source CSV extracted from `online_retail.csv` in the uploaded archive. The datas
 
 ## Project structure
 - `online_retail_analytics_oracle.sql` — Oracle SQL setup and 23 analysis/validation sections.
-- `cleaned_transactions.csv` — typed and deduplicated dataset export for inspection.
 - `sample_clean_sales_1000_rows.csv` — sample of the valid sales view.
 - `data_quality_and_kpis.csv` — quality checks and headline KPIs.
 - `monthly_sales.csv`, `country_sales.csv`, `top_20_products.csv`, `top_20_customers.csv` — analysis outputs.
