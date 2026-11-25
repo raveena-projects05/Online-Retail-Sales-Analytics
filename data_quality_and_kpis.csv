@@ -1,0 +1,14 @@
+Metric,Value
+Original rows,541909.0
+Exact duplicate rows,5268.0
+Rows after exact-deduplication,536641.0
+Missing CustomerID,135037.0
+Missing Description,1454.0
+Cancellation rows,9251.0
+"Return rows (negative quantity, non-cancellation)",1336.0
+Non-positive UnitPrice rows,2512.0
+Valid sales rows,524878.0
+Valid sales revenue,10642110.804000001
+Distinct valid invoices,19960.0
+Units sold,5572420.0
+Identified customers,4338.0
